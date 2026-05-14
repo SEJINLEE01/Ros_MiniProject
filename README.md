@@ -15,4 +15,4 @@ ros2 run chase_object control_rotate 실행
 <img width="538" height="426" alt="Screencast from 2026-05-14 16-02-32_1(1)" src="https://github.com/user-attachments/assets/04dab098-86be-45bc-aca1-bf20e291883e" />
 
 시연 영상  
-https://studio.youtube.com/video/u7CR69-9iPM/edit
+https://youtu.be/u7CR69-9iPM
