@@ -17,7 +17,7 @@ ros2 launch turtlebot3_bringup.launch robot.launch.py 실행
 ros2 환경 불러온 후
 ros2 run chase_object yolo_ros_node 실행 후  
 ros2 run chase_object control_rotate 실행
-타겟을 변경하고 싶으면 yolo_ros_node에서 변경
+타겟을 변경하고 싶으면 yolo_ros_node에서 변경  
 ultralytics문제로 빌드가 안 될 경우 export PYTHONPATH=/home/mj/venv/ch_obj/lib/python3.12/site-packages:$PYTHONPATH 입력
 
 ---
