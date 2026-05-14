@@ -1,0 +1,29 @@
+[0.475s] Invoking command in '/home/mj/project/pj_chase_obj/src/chase_object': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=(ch_obj) \[\e[1;34m\](ID:${ROS_DOMAIN_ID:-0})\[\e[1;32m\]\u\[\e[0m\]:\[\e[1;34m\]\w\[\e[0m\]$ PYTHONPATH=/home/mj/project/pj_chase_obj/build/chase_object/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mj/project/pj_chase_obj/install/chase_object/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(ch_obj) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/chase_object build --build-base /home/mj/project/pj_chase_obj/build/chase_object/build install --record /home/mj/project/pj_chase_obj/build/chase_object/install.log --single-version-externally-managed install_data
+[0.683s] running egg_info
+[0.699s] writing ../../build/chase_object/chase_object.egg-info/PKG-INFO
+[0.699s] writing dependency_links to ../../build/chase_object/chase_object.egg-info/dependency_links.txt
+[0.699s] writing entry points to ../../build/chase_object/chase_object.egg-info/entry_points.txt
+[0.699s] writing requirements to ../../build/chase_object/chase_object.egg-info/requires.txt
+[0.699s] writing top-level names to ../../build/chase_object/chase_object.egg-info/top_level.txt
+[0.732s] reading manifest file '../../build/chase_object/chase_object.egg-info/SOURCES.txt'
+[0.732s] writing manifest file '../../build/chase_object/chase_object.egg-info/SOURCES.txt'
+[0.732s] running build
+[0.733s] running build_py
+[0.733s] copying chase_object/__init__.py -> /home/mj/project/pj_chase_obj/build/chase_object/build/lib/chase_object
+[0.733s] copying chase_object/yolo_ros_node.py -> /home/mj/project/pj_chase_obj/build/chase_object/build/lib/chase_object
+[0.733s] copying chase_object/control_rotate.py -> /home/mj/project/pj_chase_obj/build/chase_object/build/lib/chase_object
+[0.733s] copying chase_object/control_apps.py -> /home/mj/project/pj_chase_obj/build/chase_object/build/lib/chase_object
+[0.733s] copying chase_object/yolo_apps.py -> /home/mj/project/pj_chase_obj/build/chase_object/build/lib/chase_object
+[0.733s] running install
+[0.737s] running install_lib
+[0.753s] running install_data
+[0.753s] copying resource/chase_object -> /home/mj/project/pj_chase_obj/install/chase_object/share/ament_index/resource_index/packages
+[0.753s] copying package.xml -> /home/mj/project/pj_chase_obj/install/chase_object/share/chase_object
+[0.753s] running install_egg_info
+[0.769s] removing '/home/mj/project/pj_chase_obj/install/chase_object/lib/python3.12/site-packages/chase_object-0.0.0-py3.12.egg-info' (and everything under it)
+[0.769s] Copying ../../build/chase_object/chase_object.egg-info to /home/mj/project/pj_chase_obj/install/chase_object/lib/python3.12/site-packages/chase_object-0.0.0-py3.12.egg-info
+[0.770s] running install_scripts
+[0.802s] Installing control_rotate script to /home/mj/project/pj_chase_obj/install/chase_object/lib/chase_object
+[0.802s] Installing yolo_ros_node script to /home/mj/project/pj_chase_obj/install/chase_object/lib/chase_object
+[0.802s] writing list of installed files to '/home/mj/project/pj_chase_obj/build/chase_object/install.log'
+[0.816s] Invoked command in '/home/mj/project/pj_chase_obj/src/chase_object' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=(ch_obj) \[\e[1;34m\](ID:${ROS_DOMAIN_ID:-0})\[\e[1;32m\]\u\[\e[0m\]:\[\e[1;34m\]\w\[\e[0m\]$ PYTHONPATH=/home/mj/project/pj_chase_obj/build/chase_object/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mj/project/pj_chase_obj/install/chase_object/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(ch_obj) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/chase_object build --build-base /home/mj/project/pj_chase_obj/build/chase_object/build install --record /home/mj/project/pj_chase_obj/build/chase_object/install.log --single-version-externally-managed install_data
