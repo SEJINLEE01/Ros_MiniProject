@@ -1,3 +1,0 @@
-[console_scripts]
-control_rotate = chase_object.control_rotate:main
-yolo_ros_node = chase_object.yolo_ros_node:main
